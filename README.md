@@ -19,3 +19,4 @@ repository on GitHub
 This is an extra line of text added to the copy of
 README.md in the cloned repository
 updated locally
+>>>>>>>>>> TAIL and Head
