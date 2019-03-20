@@ -1,5 +1,5 @@
-# Hello Brilliant  World
-
+<<<<<<< HEAD
+# Hello Brilliant, Useful World
 This is a text file that we are going to add to Git.
 
 We will use Git to record all of the versions of this file,
